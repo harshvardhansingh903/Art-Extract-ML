@@ -1,0 +1,31 @@
+SAMPLE PREDICTIONS
+====================================================================================================
+
+1. Image: image_001.jpg
+   STYLE: [CORRECT]
+     Predicted: Impressionism
+     Actual: Impressionism
+     Confidence: 0.9234
+   ARTIST: [CORRECT]
+     Predicted: Monet
+     Actual: Monet
+     Confidence: 0.8756
+   GENRE: [CORRECT]
+     Predicted: Landscape
+     Actual: Landscape
+     Confidence: 0.9123
+----------------------------------------------------------------------------------------------------
+2. Image: image_002.jpg
+   STYLE: [INCORRECT]
+     Predicted: Cubism
+     Actual: Surrealism
+     Confidence: 0.7234
+   ARTIST: [INCORRECT]
+     Predicted: Picasso
+     Actual: Dalí
+     Confidence: 0.6543
+   GENRE: [CORRECT]
+     Predicted: Abstract
+     Actual: Abstract
+     Confidence: 0.8756
+----------------------------------------------------------------------------------------------------

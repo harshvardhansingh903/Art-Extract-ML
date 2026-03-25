@@ -1,0 +1,9 @@
+LOW CONFIDENCE PREDICTIONS (OUTLIERS)
+================================================================================
+
+1. Image: noisy_image_042.jpg
+   Task: STYLE
+   Predicted: Realism
+   Actual: Abstraction
+   Confidence: 0.4234
+--------------------------------------------------------------------------------
